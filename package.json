@@ -23,7 +23,7 @@
     "autoprefixer": "^10.1.0",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "lodash": "^4.17.20",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.10",
     "snowpack": "^2.18.2",
     "sortablejs": "^1.12.0",
     "svelte": "^3.31.0",
